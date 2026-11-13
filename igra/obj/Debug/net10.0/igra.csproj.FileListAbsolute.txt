@@ -1,0 +1,29 @@
+C:\Users\D\Desktop\igra\igra\obj\Debug\net10.0\igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\Desktop\igra\igra\obj\Debug\net10.0\igra.AssemblyInfoInputs.cache
+C:\Users\D\Desktop\igra\igra\obj\Debug\net10.0\igra.AssemblyInfo.cs
+C:\Users\D\Desktop\igra\igra\obj\Debug\net10.0\igra.csproj.CoreCompileInputs.cache
+C:\Users\D\Desktop\Igra\igra\bin\Debug\net10.0\igra.exe
+C:\Users\D\Desktop\Igra\igra\bin\Debug\net10.0\igra.deps.json
+C:\Users\D\Desktop\Igra\igra\bin\Debug\net10.0\igra.runtimeconfig.json
+C:\Users\D\Desktop\Igra\igra\bin\Debug\net10.0\igra.dll
+C:\Users\D\Desktop\Igra\igra\bin\Debug\net10.0\igra.pdb
+C:\Users\D\Desktop\Igra\igra\obj\Debug\net10.0\igra.dll
+C:\Users\D\Desktop\Igra\igra\obj\Debug\net10.0\refint\igra.dll
+C:\Users\D\Desktop\Igra\igra\obj\Debug\net10.0\igra.pdb
+C:\Users\D\Desktop\Igra\igra\obj\Debug\net10.0\igra.genruntimeconfig.cache
+C:\Users\D\Desktop\Igra\igra\obj\Debug\net10.0\ref\igra.dll
+C:\Users\Android Studio\Desktop\Igra\igra\bin\Debug\net10.0\igra.exe
+C:\Users\Android Studio\Desktop\Igra\igra\bin\Debug\net10.0\igra.deps.json
+C:\Users\Android Studio\Desktop\Igra\igra\bin\Debug\net10.0\igra.runtimeconfig.json
+C:\Users\Android Studio\Desktop\Igra\igra\bin\Debug\net10.0\igra.dll
+C:\Users\Android Studio\Desktop\Igra\igra\bin\Debug\net10.0\igra.pdb
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\igra.AssemblyInfoInputs.cache
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\igra.AssemblyInfo.cs
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\igra.csproj.CoreCompileInputs.cache
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\igra.sourcelink.json
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\igra.dll
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\refint\igra.dll
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\igra.pdb
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\igra.genruntimeconfig.cache
+C:\Users\Android Studio\Desktop\Igra\igra\obj\Debug\net10.0\ref\igra.dll
